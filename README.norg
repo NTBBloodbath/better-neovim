@@ -1,0 +1,22 @@
+* Better Neovim
+  > *This is a repository that stores information, it is not a plugin for Neovim!*
+
+  This repository is designed to save notes and technical specifications about improvements that
+  must be made in the Neovim ecosystem to improve it. Regardless of the acceptance of the
+  proposals in it, these will be carried out because they are necessary, although at the time of
+  writing this many people do not see it that way.
+
+  As some context, I am someone who has been using Neovim for a little over 5 years as my editor of
+  choice, and lately I have seen changes happening that, despite many people (mostly new Neovim
+  users) finding it attractive or "enough", they are not really the best thing for the Neovim users,
+  from there these proposals are born.
+
+  These proposals are the following:
+  - (-) LuaRocks integration and adoption
+  - ( ) Better completion engine
+
+  Before opening an issue in the repository, please note that
+  ~ This list is subject to changes
+  ~ Some of the list items are just plugins, some others may have other steps to be done
+  ~ Each proposal has its own document with specifications and possibly answers to your questions
+     about them (WIP, stay tuned!).
